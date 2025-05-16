@@ -1,0 +1,12 @@
+{
+  "name": "UNIT ABU DHABI LAUNCH",
+  "symbol": "AUHLCH",
+  "description": "a community passionate about Abu Dhabi, and the tokenisation of businesses and assets in the city",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ABUDHABI/abudhabi512.png",
+  "creator": {
+    "name": "UNIT ABU DHABI LAUNCH",
+    "site": "https://abudhabi.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

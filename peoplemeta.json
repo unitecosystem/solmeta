@@ -1,0 +1,12 @@
+{
+  "name": "UNIT PEOPLE LAUNCH",
+  "symbol": "PEOPLELCH",
+  "description": "Powering the People Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/PEOPLE/peoplel512.png",
+  "creator": {
+    "name": "UNIT PEOPLE LAUNCH",
+    "site": "https://PEOPLE.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SEOUL LAUNCH",
+  "symbol": "SEOULLCH",
+  "description": "Powering the Seoul Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/SEOUL/seoul512.png",
+  "creator": {
+    "name": "UNIT SEOUL LAUNCH",
+    "site": "https://SEOUL.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

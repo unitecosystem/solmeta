@@ -1,0 +1,12 @@
+{
+  "name": "UNIT BIKE LAUNCH",
+  "symbol": "BIKELCH",
+  "description": "Bike, Tokenized. The Decentralized Movement Token by Unit Network.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/BIKE/bike512.png",
+  "creator": {
+    "name": "UNIT BIKE LAUNCH",
+    "site": "https://BIKE.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

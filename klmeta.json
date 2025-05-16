@@ -1,0 +1,12 @@
+{
+  "name": "UNIT KUALA LUMPUR LAUNCH",
+  "symbol": "KLLCH",
+  "description": "A decentralized platform connecting Kuala Lumpur, innovators, creators, and communities across Web3 and beyond.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/KUALALUMPUR/kl512.png",
+  "creator": {
+    "name": "UNIT KUALA LUMPUR LAUNCH",
+    "site": "https://KUALALUMPUR.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

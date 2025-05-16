@@ -1,0 +1,12 @@
+{
+  "name": "UNIT STATUS LAUNCH",
+  "symbol": "STATUSLCH",
+  "description": "A decentralized platform to build, showcase, and own your reputation and influence on-chain.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/STATUS/statusl512.png",
+  "creator": {
+    "name": "UNIT STATUS LAUNCH",
+    "site": "https://STATUS.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SAO PAULO LAUNCH",
+  "symbol": "SAOLCH",
+  "description": "Get paid. Build equity. Work on Unit Network. WORK enables job listings, freelance gigs, and project payouts in a transparent, tokenized labor marketplace.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitWorkLaunch/main/WorkLaunch512.png",
+  "creator": {
+    "name": "UNIT SAO PAULO LAUNCH",
+    "site": "https://SAOPAULO.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

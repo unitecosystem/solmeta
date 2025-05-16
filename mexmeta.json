@@ -1,0 +1,12 @@
+{
+  "name": "UNIT MEXICO CITY LAUNCH",
+  "symbol": "MEXLCH",
+  "description": "Mexico, Tokenized. Where Tradition Fuels Innovation.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/MEXICOCITY/mex512.png",
+  "creator": {
+    "name": "UNIT MEXICO CITY LAUNCH",
+    "site": "https://MEXICOCITY.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

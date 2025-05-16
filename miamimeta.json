@@ -1,0 +1,13 @@
+{
+  "name": "UNIT MIAMI LAUNCH",
+  "symbol": "MIAMILCH",
+  "description": "Powering the Miami Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/MIAMI/miami512.png",
+  "creator": {
+    "name": "UNIT MIAMI LAUNCH",
+    "site": "https://MIAMI.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
+

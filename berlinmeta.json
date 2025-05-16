@@ -1,0 +1,12 @@
+{
+  "name": "UNIT BERLIN LAUNCH",
+  "symbol": "BERLINLCH",
+  "description": "A decentralized platform connecting Berlin innovators, creators, and communities across Web3 and beyond.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/BERLIN/berlin512.png",
+  "creator": {
+    "name": "UNIT BERLIN LAUNCH",
+    "site": "https://BERLIN.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

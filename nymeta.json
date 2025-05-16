@@ -1,0 +1,12 @@
+{
+  "name": "UNIT NEWYORK LAUNCH",
+  "symbol": "NEWYORKLCH",
+  "description": "Powering the New York Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/NEWYORK/newyork512.png",
+  "creator": {
+    "name": "UNIT NEWYORK LAUNCH",
+    "site": "https://NEWYORK.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SCREEN LAUNCH",
+  "symbol": "SCREENLCH",
+  "description": "Tracking the Token Economy",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/SCREENER/ScreenLaunch512.png",
+  "creator": {
+    "name": "UNIT SCREEN LAUNCH",
+    "site": "https://SCREEN.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

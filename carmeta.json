@@ -1,0 +1,12 @@
+{
+  "name": "UNIT CAR LAUNCH",
+  "symbol": "CARLCH",
+  "description": "Powering the Car Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/CAR/car512.png",
+  "creator": {
+    "name": "UNIT CAR LAUNCH",
+    "site": "https://CAR.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

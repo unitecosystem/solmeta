@@ -1,0 +1,12 @@
+{
+  "name": "UNIT BLACK LAUNCH",
+  "symbol": "BLACKLCH",
+  "description": "Own the Culture. Build the Future",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/BLACK/blacklaunch512.png",
+  "creator": {
+    "name": "UNIT BLACK LAUNCH",
+    "site": "https://BLACK.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

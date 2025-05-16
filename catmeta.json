@@ -1,0 +1,12 @@
+{
+  "name": "UNIT CAT LAUNCH",
+  "symbol": "CATLCH",
+  "description": "A decentralized platform for cat lovers, breeders, rescues, and collectors to connect and build on-chain.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/CAT/catlaunch512.png",
+  "creator": {
+    "name": "UNIT CAT LAUNCH",
+    "site": "https://CAT.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

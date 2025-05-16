@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SINGAPORE LAUNCH",
+  "symbol": "SINLCH",
+  "description": "Powering the Singapore Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/SINGAPORE/sg512.png",
+  "creator": {
+    "name": "UNIT SINGAPORE LAUNCH",
+    "site": "https://SINGAPORE.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

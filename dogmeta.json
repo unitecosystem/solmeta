@@ -1,0 +1,12 @@
+{
+  "name": "UNIT DOG LAUNCH",
+  "symbol": "DOGLCH",
+  "description": "A decentralized platform connecting dog lovers, breeders, brands, and rescue communities worldwide.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/DOG/dog512.png",
+  "creator": {
+    "name": "UNIT DOG LAUNCH",
+    "site": "https://DOG.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

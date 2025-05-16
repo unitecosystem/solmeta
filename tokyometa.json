@@ -1,0 +1,12 @@
+{
+  "name": "UNIT TOKYO LAUNCH",
+  "symbol": "TOKYOLCH",
+  "description": "Powering the Tokyo Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitTokyoLaunch/main/Tokyo512.png",
+  "creator": {
+    "name": "UNIT TOKYO LAUNCH",
+    "site": "https://TOKYO.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

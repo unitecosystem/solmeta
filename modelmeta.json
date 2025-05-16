@@ -1,0 +1,12 @@
+{
+  "name": "UNIT MODEL LAUNCH",
+  "symbol": "MODELLCH",
+  "description": "Powering the Model Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/MODEL/model512.png",
+  "creator": {
+    "name": "UNIT MODEL LAUNCH",
+    "site": "https://MODEL.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

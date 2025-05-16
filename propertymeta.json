@@ -1,0 +1,12 @@
+{
+  "name": "UNIT PROPERTY LAUNCH",
+  "symbol": "PROPERTYLCH",
+  "description": "Powering the Property Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/PROPERTY/propertyl512.png",
+  "creator": {
+    "name": "UNIT PROPERTY LAUNCH",
+    "site": "https://PROPERTY.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

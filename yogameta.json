@@ -1,0 +1,12 @@
+{
+  "name": "UNIT YOGA LAUNCH",
+  "symbol": "YOGALCH",
+  "description": "Powering the Yoga Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/YOGA/yoga512.png",
+  "creator": {
+    "name": "UNIT YOGA LAUNCH",
+    "site": "https://YOGA.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

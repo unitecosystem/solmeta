@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SOLAR LAUNCH",
+  "symbol": "SOLARLCH",
+  "description": "A decentralized platform for funding, building, and owning solar energy projects worldwide.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/SOLAR/solarlaunch512.png",
+  "creator": {
+    "name": "UNIT SOLAR LAUNCH",
+    "site": "https://SOLAR.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

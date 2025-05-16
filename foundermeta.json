@@ -1,0 +1,12 @@
+{
+  "name": "UNIT FOUNDER LAUNCH",
+  "symbol": "FOUNDERLCH",
+  "description": "Powering the Founder Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/FOUNDER/founder512.png",
+  "creator": {
+    "name": "UNIT FOUNDER LAUNCH",
+    "site": "https://FOUNDER.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "UNIT ASIAN LAUNCH",
+  "symbol": "ASIANLCH",
+  "description": "Powering the Asian community globally",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ASIAN/asianlaunch512.png",
+  "creator": {
+    "name": "UNIT ASIAN LAUNCH",
+    "site": "https://ASIAN.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

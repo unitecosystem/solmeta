@@ -1,0 +1,12 @@
+{
+  "name": "UNIT FOOTBALL LAUNCH",
+  "symbol": "BALLLCH",
+  "description": "Powering the Football Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/FOOD/food512.png",
+  "creator": {
+    "name": "UNIT FOOTBALL LAUNCH",
+    "site": "https://FOOTBALL.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

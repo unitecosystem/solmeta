@@ -1,0 +1,12 @@
+{
+  "name": "UNIT MOVIE LAUNCH",
+  "symbol": "MOVIELCH",
+  "description": "Powering the Movie Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/MOVIE/movie512.png",
+  "creator": {
+    "name": "UNIT MOVIE LAUNCH",
+    "site": "https://MOVIE.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

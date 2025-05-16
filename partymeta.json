@@ -1,0 +1,12 @@
+{
+  "name": "UNIT PARTY LAUNCH",
+  "symbol": "PARTYLCH",
+  "description": "Powering the Party Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/PARTY/party512.png",
+  "creator": {
+    "name": "UNIT PARTY LAUNCH",
+    "site": "https://PARTY.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SAN FRANCISCO LAUNCH",
+  "symbol": "SFOLCH",
+  "description": "Powering the San Francisco Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/SANFRANCISCO/sfo512.png",
+  "creator": {
+    "name": "UNIT SAN FRANCISCO LAUNCH",
+    "site": "https://SFO.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

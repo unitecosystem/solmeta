@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SHANGHAI LAUNCH",
+  "symbol": "SHALCH",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/SHANGHAI/shanghai512.png",
+  "creator": {
+    "name": "UNIT SHANGHAI LAUNCH",
+    "site": "https://SHANGHAI.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

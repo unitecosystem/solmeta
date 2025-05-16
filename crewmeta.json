@@ -1,0 +1,12 @@
+{
+  "name": "UNIT CREW LAUNCH",
+  "symbol": "CREWLCH",
+  "description": "Decentralized Community Group App on Unit Network. Curate, Connect, Own.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/CREW/crewlaunch512.png",
+  "creator": {
+    "name": "UNIT CREW LAUNCH",
+    "site": "https://CREW.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

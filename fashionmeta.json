@@ -1,0 +1,12 @@
+{
+  "name": "UNIT FASHION LAUNCH",
+  "symbol": "FASHIONLCH",
+  "description": "Powering the Fashion Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/FASHION/fashionl512.png",
+  "creator": {
+    "name": "UNIT FASHION LAUNCH",
+    "site": "https://FASHION.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

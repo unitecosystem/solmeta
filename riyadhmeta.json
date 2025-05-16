@@ -1,0 +1,12 @@
+{
+  "name": "UNIT RIO LAUNCH",
+  "symbol": "RIOLCH",
+  "description": "Rio on the Blockchain. The City Token by Unit Network.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/RIO/rio512.png",
+  "creator": {
+    "name": "UNIT RIO LAUNCH",
+    "site": "https://RIO.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

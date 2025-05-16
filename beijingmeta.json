@@ -1,0 +1,12 @@
+{
+  "name": "UNIT BEIJING LAUNCH",
+  "symbol": "BEIJINGLCH",
+  "description": "A decentralized platform connecting Beijing, creators, innovators, and communities across Web3 and beyond.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/BEIJING/beijing512.png",
+  "creator": {
+    "name": "UNIT BEIJING LAUNCH",
+    "site": "https://BEIJING.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

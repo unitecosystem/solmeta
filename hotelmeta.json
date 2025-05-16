@@ -1,0 +1,12 @@
+{
+  "name": "UNIT HOTEL LAUNCH",
+  "symbol": "HOTELLCH",
+  "description": "Community supporting Hospitality, Tokenized. The Decentralized Hotel Economy Token by Unit Network.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/HOTEL/hotel512.png",
+  "creator": {
+    "name": "UNIT HOTEL LAUNCH",
+    "site": "https://HOTEL.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

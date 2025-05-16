@@ -1,0 +1,12 @@
+{
+  "name": "UNIT BOSTON LAUNCH",
+  "symbol": "BOSTONLCH",
+  "description": "A decentralized platform connecting Boston‚ innovators, creators, and communities across Web3 and beyond.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/BOSTON/boston512.png",
+  "creator": {
+    "name": "UNIT BOSTON LAUNCH",
+    "site": "https://BOSTON.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

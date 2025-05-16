@@ -1,0 +1,12 @@
+{
+  "name": "UNIT CHAT LAUNCH",
+  "symbol": "CHATLCH",
+  "description": "Decentralised Chat App on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/CHAT/chatlaunch512.png",
+  "creator": {
+    "name": "UNIT CHAT LAUNCH",
+    "site": "https://CHAT.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
