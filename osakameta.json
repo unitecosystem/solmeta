@@ -2,10 +2,10 @@
   "name": "UNIT OSAKA LAUNCH",
   "symbol": "OSAKALCH",
   "description": "A decentralized platform connecting Osaka‚ creators, innovators, and communities across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/osaka.png",
   "creator": {
     "name": "UNIT OSAKA LAUNCH",
-    "site": "https://OSAKA.unit.network/coin"
+    "site": "https://OSAKA.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

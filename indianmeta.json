@@ -2,10 +2,10 @@
   "name": "UNIT INDIAN LAUNCH",
   "symbol": "INDIANLCH",
   "description": "A decentralized platform empowering India's culture, entrepreneurship, and innovation on-chain.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/Indian.png",
   "creator": {
     "name": "UNIT INDIAN LAUNCH",
-    "site": "https://INDIAN.unit.network/coin"
+    "site": "https://INDIAN.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

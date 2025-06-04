@@ -2,10 +2,10 @@
   "name": "UNIT CHURCH LAUNCH",
   "symbol": "CHURCHLCH",
   "description": "A decentralized platform connecting faith communities, organizations, and missions across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/churchl.png",
   "creator": {
     "name": "UNIT CHURCH LAUNCH",
-    "site": "https://CHURCH.unit.network/coin"
+    "site": "https://CHURCH.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

@@ -2,10 +2,10 @@
   "name": "UNIT MANILA LAUNCH",
   "symbol": "MANILALCH",
   "description": "A decentralized platform connecting Manila, creators, builders, and communities across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/manila.png",
   "creator": {
     "name": "UNIT MANILA LAUNCH",
-    "site": "https://MANILA.unit.network/coin"
+    "site": "https://MANILA.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

@@ -2,10 +2,10 @@
   "name": "UNIT ARAB LAUNCH",
   "symbol": "ARABLCH",
   "description": "A decentralized platform uniting Arab culture, innovation, and community across the globe.",
-  "image": "image not available",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/Arab.png",
   "creator": {
     "name": "UNIT ARAB LAUNCH",
-    "site": "https://ARAB.unit.network/coin"
+    "site": "https://ARAB.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

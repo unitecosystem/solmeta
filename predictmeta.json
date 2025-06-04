@@ -2,10 +2,10 @@
   "name": "UNIT PREDICT LAUNCH",
   "symbol": "PREDICTLCH",
   "description": "A decentralized platform connecting forecasters, data communities, and markets across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/predictl512.png",
   "creator": {
     "name": "UNIT PREDICT LAUNCH",
-    "site": "https://PREDICT.unit.network/coin"
+    "site": "https://PREDICT.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

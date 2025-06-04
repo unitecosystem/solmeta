@@ -2,10 +2,10 @@
   "name": "UNIT COFFEE LAUNCH",
   "symbol": "COFFEELCH",
   "description": "A decentralized platform connecting coffee growers, brands, and communities across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/coffeel512.png",
   "creator": {
     "name": "UNIT COFFEE LAUNCH",
-    "site": "https://COFFEE.unit.network/coin"
+    "site": "https://COFFEE.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

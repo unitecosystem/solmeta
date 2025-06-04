@@ -2,10 +2,10 @@
   "name": "UNIT NETWORKSTATE LAUNCH",
   "symbol": "NSLCH",
   "description": "A decentralized platform connecting network cities, digital citizens, and global communities across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/nsl.png",
   "creator": {
     "name": "UNIT NETWORKSTATE LAUNCH",
-    "site": "https://NETWORKSTATE.unit.network/coin"
+    "site": "https://NETWORKSTATE.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

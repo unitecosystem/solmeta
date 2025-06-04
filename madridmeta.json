@@ -2,10 +2,10 @@
   "name": "UNIT MADRID LAUNCH",
   "symbol": "MADRIDLCH",
   "description": "Madrid, Tokenized. Where Heritage Meets Innovation.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/madrid.png",
   "creator": {
     "name": "UNIT MADRID LAUNCH",
-    "site": "https://MADRID.unit.network/coin"
+    "site": "https://MADRID.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

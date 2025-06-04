@@ -2,10 +2,10 @@
   "name": "UNIT SWAP LAUNCH",
   "symbol": "SWAPLCH",
   "description": "A decentralized platform connecting traders, liquidity providers, and swap markets across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/swap.png",
   "creator": {
     "name": "UNIT SWAP LAUNCH",
-    "site": "https://SWAP.unit.network/coin"
+    "site": "https://SWAP.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null

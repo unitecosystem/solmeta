@@ -2,10 +2,10 @@
   "name": "UNIT DRINK LAUNCH",
   "symbol": "DRINKLCH",
   "description": "A decentralized platform connecting beverage creators, brands, and communities across Web3 and beyond.",
-  "image": "IMAGE NOT AVAILABLE",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/drinkl512.png",
   "creator": {
     "name": "UNIT DRINK LAUNCH",
-    "site": "https://DRINK.unit.network/coin"
+    "site": "https://DRINK.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null
