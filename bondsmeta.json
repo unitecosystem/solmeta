@@ -1,11 +1,11 @@
 {
-  "name": "UNIT BONDS LAUNCH",
-  "symbol": "BONDSLCH",
+  "name": "UNIT BOND LAUNCH",
+  "symbol": "BONDLCH",
   "description": "A decentralized platform connecting investors, issuers, and communities across Web3 and beyond.",
-  "image": "image not available",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/bondL.png",
   "creator": {
-    "name": "UNIT BONDS LAUNCH",
-    "site": "https://BONDS.unit.network/launch"
+    "name": "UNIT BOND LAUNCH",
+    "site": "https://BOND.unit.network/launch"
   },
   "seller_fee_basis_points": 0,
   "creators": null
